@@ -1,1 +1,1 @@
-# mts-teta
+# MTS Teta
